@@ -1,2 +1,2 @@
 # Hello GIT
-created this file to understand all git commands
+created this file just to understand all git commands.
